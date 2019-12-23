@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Dept. of CSE # add your name
-author-img: MVIT-LOGO-high-WHITE.png # add your photo
+author-img: MVIT-LOGO-high.jpg # add your photo
 about-author: Official blog of The Department of Computer Science & Engineering, Sir M. Visvesvaraya Institute of Technology. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
@@ -19,7 +19,7 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: glugmvit # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
