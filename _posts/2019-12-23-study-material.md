@@ -9,4 +9,4 @@ tags: [Study Material] # add tag
 
 ### Google Drive Link
 
-<https://drive.google.com/drive/u/3/my-drive>
+<https://drive.google.com/drive/folders/1aydsazuzWXkhvsHz7BAmc12bUQZXQ74W?usp=sharing>
