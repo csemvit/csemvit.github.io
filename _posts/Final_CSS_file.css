@@ -1,0 +1,58 @@
+.head{
+	font-family :serif;
+	height:150px;
+	font-size:100px;
+}
+body{
+  font-style:italic;
+}
+li{
+  list-style:none;
+}
+h3{
+  font-size:50px;
+  height:65px;
+}
+h4{
+  font-size:25px;
+  height:30px;
+}
+.selected{
+  float:left;
+  width:400px;
+  height:250px;
+}
+.select1{
+  float:left;
+}
+.select2{
+  float:left;
+  width:250;
+}
+.select3{
+  float:left;
+  width:600;
+  height:400;
+}
+.select5{
+  height:100px;
+  width:600;
+}
+.select6{
+  float:left;
+  height:400px;
+  width:400;
+}
+.select7{
+  float:left;
+  height:470px;
+  width:700;
+}
+.select{
+  float:left;
+  width:1200px;
+}
+img{
+  height:850;
+  width:1200;
+}
